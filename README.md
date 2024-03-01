@@ -1,2 +1,2 @@
 # GoGame
-The realization of board game Go in Unreal Engine
+The realization of the board game Go in Unreal Engine
